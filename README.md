@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/rubywardhani/rubywardhani/assets/yourusername/banner-ruby.png" alt="Tech Visionary - Ruby Wardhani" width="100%" /> 
+  <img src="https://github.com/rubywardhani/rubywardhani/assets/rubywardhani/banner-ruby.png" alt="Tech Visionary - Ruby Wardhani" width="100%" /> 
 </p>
 
 ---

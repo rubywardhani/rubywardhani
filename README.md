@@ -13,12 +13,8 @@
 </p>
 
 ---
-![Ruby Wardhani](banner-ruby.png)
 
-<p align="center">
-  <img src="https://github.com/rubywardhani/rubywardhani/assets/rubywardhani/banner-ruby.png" alt="Tech Visionary - Ruby Wardhani" width="100%" /> 
-  ![Ruby Wardhani](banner-ruby.png)
-</p>
+![Ruby Wardhani](banner-ruby.png)
 
 ---
 

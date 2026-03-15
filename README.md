@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Ruby Wardhani 👋</h1>
-<p align="center"><i>Tech Visionary & Data-Driven Explorer</i></p>
+<p align="center"><i>Exploring AI & Technology for Business Innovation</i></p>
 
 <p align="center">
-  💻 AI Enthusiast | 🤖 NLP Researcher | 📊 Machine Learning Explorer  
+  💼 IT Officer at Dako | 🚀 Founder at Pionedge | 🤖 Exploring AI Applications for Business
 </p>
 
 <p align="center">
@@ -20,30 +20,35 @@
 
 ### 🧠 About Me
 
-I’m a tech enthusiast with a strong interest in Artificial Intelligence and Natural Language Processing, especially in low-resource language applications.
-Currently working as a Tech Leader, I actively engage in research while preparing for advanced study opportunities in AI abroad.
+I’m an Information Technology professional currently working as an **IT Officer at Dako**, while also building **Pionedge**, an IT service and consulting initiative focused on helping businesses leverage technology to solve real-world problems.
 
-- 🧪 Leading an ongoing research project on **fine-tuning strategies (LoRA vs. AdapterFusion) for Indonesian NLP**
-- 🎮 Developed a **pathfinding algorithm** for a mobile game using Construct 3
-- 📚 Passionate about bridging research and real-world applications in technology
-- 🎯 Preparing for graduate studies in AI and strengthening academic foundations
+With a background in Informatics, my experience spans **software development, data analysis, and technology project management**. I’m particularly interested in how emerging technologies—especially **Artificial Intelligence**—can improve business processes, decision-making, and operational efficiency.
+
+Alongside my professional work, I continuously explore new technologies and experiment with projects that bridge **technology innovation and real-world business applications**.
+
+My long-term goal is to build impactful technology-driven products and companies while deepening my expertise in **AI and intelligent systems**.
 
 ---
 
 ### 🧰 Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow?style=flat&logo=huggingface&logoColor=black) ![Construct 3](https://img.shields.io/badge/Construct3-000000?style=flat&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow?style=flat&logo=huggingface&logoColor=black)
+![Construct 3](https://img.shields.io/badge/Construct3-000000?style=flat&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🔬 Research Projects
+### 🔬 Selected Projects & Research
 
 📖 **[The Fabrique: A Pathfinding Algorithm in a Mobile Game Developed Using Construct 3](https://www.pubs.ascee.org/index.php/iota/article/view/915)**  
 *Published in IOT and AI Technology Conference (IOTA)*  
-Designed a pathfinding algorithm for NPC navigation in a 2D mobile game built with Construct 3.
+Designed a pathfinding algorithm for NPC navigation in a 2D mobile game built using Construct 3.
 
-🚧 **[In Progress] A Comparative Study of LoRA and AdapterFusion for Multi-Domain Fine-Tuning in Low-Resource Languages**  
-Currently conducting experiments on Indonesian NLP models to evaluate different parameter-efficient fine-tuning techniques.
+🚧 **AI & Technology Experiments (Ongoing)**  
+Currently exploring different approaches to applying AI and machine learning to real-world business problems, automation, and data-driven decision making.
 
 🔗 More publications on [Google Scholar](https://scholar.google.com/citations?user=Qlr23mwAAAAJ&hl=en)
 
@@ -52,9 +57,10 @@ Currently conducting experiments on Indonesian NLP models to evaluate different 
 ### 🔍 Areas of Interest
 
 - 🤖 Artificial Intelligence  
-- 🧬 Natural Language Processing  
-- 📈 Machine Learning  
-- 🧭 Search & Optimization Algorithms  
+- 📊 Data & Business Intelligence  
+- 🧠 Machine Learning  
+- ⚙️ Automation & Intelligent Systems  
+- 🚀 Technology for Business Innovation  
 
 ---
 
@@ -68,9 +74,10 @@ Currently conducting experiments on Indonesian NLP models to evaluate different 
 
 ### 🤝 Open for Collaboration
 
-I’m open to collaborating on research or applied AI projects, especially those involving low-resource NLP, educational tools, and algorithm design.  
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/ruby-wardhani/) or check my [ORCID](https://orcid.org/0009-0005-2227-6715) profile.
+I’m open to collaborations on **technology projects, AI experiments, and applied digital solutions**, especially those focused on solving real-world problems for businesses and organizations.
+
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/ruby-wardhani/) or explore my research on [ORCID](https://orcid.org/0009-0005-2227-6715).
 
 ---
 
-<p align="center"><i>"Empowering innovation through data, one insight at a time."</i></p>
+<p align="center"><i>"Building technology that turns ideas into real-world impact."</i></p>

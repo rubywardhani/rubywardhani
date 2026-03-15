@@ -14,7 +14,7 @@
 
 ---
 
-![Ruby Wardhani](banner-ruby.png)
+![Ruby Wardhani](image.png)
 
 ---
 
